@@ -42,7 +42,7 @@ I like to view technology through a holistic lens—analyzing not just how code 
 </div>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="80%">
 
 ### Backend  
 <div align="center">  
