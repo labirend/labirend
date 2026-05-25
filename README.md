@@ -25,7 +25,7 @@ I like to view technology through a holistic lens—analyzing not just how code 
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="80%">
 
 ### Frontend  
 <div align="center">  
