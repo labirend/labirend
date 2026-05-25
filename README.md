@@ -14,7 +14,7 @@ I like to view technology through a holistic lens—analyzing not just how code 
 
 <div align="center">
 
-## <font color="#FFD700">⚡ Core Philosophy & Workflow</font>
+## ⚡ Core Philosophy & Workflow
 
 </div>
 
@@ -27,14 +27,12 @@ I like to view technology through a holistic lens—analyzing not just how code 
 
 <div align="center">
 
-## <font color="#FFD700">🛠️ My Skill Set</font>
-
-</div>
+## 🛠️ My Skill Set
 
 <div align="center">
-  <div style="border: 1px solid #555; border-radius: 8px; padding: 15px; display: inline-block;">
-
-### Frontend  
+  <div style="border: 1px solid #555; border-radius: 8px; padding: 15px;">
+<br>
+<img src="https://img.shields.io/badge/Frontend-1B3A5C?style=for-the-badge" alt="Frontend" />
   <div>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
@@ -50,10 +48,12 @@ I like to view technology through a holistic lens—analyzing not just how code 
   </div>
 </div>
 
-<div align="center">
-  <div style="border: 1px solid #555; border-radius: 8px; padding: 15px; display: inline-block;">
 
-### Backend  
+
+<div align="center">
+  <div style="border: 1px solid #555; border-radius: 8px; padding: 15px;">
+<br>
+<img src="https://img.shields.io/badge/Backend-1B4332?style=for-the-badge" alt="Backend" />
   <div>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
@@ -74,7 +74,7 @@ I like to view technology through a holistic lens—analyzing not just how code 
 
 <div align="center">
 
-## <font color="#FFD700">🔮 Active Research & Explorations</font>
+## 🔮 Active Research & Explorations
 
 </div>
 
@@ -102,12 +102,13 @@ I like to view technology through a holistic lens—analyzing not just how code 
 
 <div align="center">
 
-## <font color="#FFD700">🤝 Establish Connection</font>
+## 🤝 Establish Connection
 
 </div>
 
-- **Email:** contact@labirend.com
-- **LinkedIn:** https://linkedin.com/in/dgnacar
+**Email:** contact@labirend.com
+
+**LinkedIn:** https://linkedin.com/in/dgnacar
 
 ---
 <p align="center">
