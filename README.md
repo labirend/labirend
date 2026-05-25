@@ -12,6 +12,27 @@ I like to view technology through a holistic lens—analyzing not just how code 
 
 ---
 
+
+
+<div align="center">
+
+## 🧩 System Logs: About the Operator
+
+</div>
+
+- A philosophy graduate, a career polymath, and a **dyslexic ADHD** warrior. 
+- Thanks to his skills in using portals in the simulation, he transitioned from **copywriting** to **coding** without breaking a sweat.
+- He advocates for a **meritocratic** and **technocratic** mindset. 
+- He doesn’t value human qualities beyond **intelligence** and **respect** (taken together). 
+- If there are people with the potential to listen and understand, he enjoys explaining something to them. 
+- He is the chairman of the board of a **podcast** channel. He mostly talks about people.
+
+
+
+
+
+---
+
 <div align="center">
 
 ## ⚡ Core Philosophy & Workflow
@@ -80,17 +101,14 @@ I like to view technology through a holistic lens—analyzing not just how code 
 
 <table>
   <tr>
-    <td style="padding-left: 30px;">▶</td>
     <td><b>Current Focus</b></td>
     <td>Minimizing system friction via automation modules.</td>
   </tr>
   <tr>
-    <td style="padding-left: 30px;">▶</td>
     <td><b>Sec Lab</b></td>
     <td>Analyzing network protocols, defensive vectors, and cryptographic keys.</td>
   </tr>
   <tr>
-    <td style="padding-left: 30px;">▶</td>
     <td><b>Environment</b></td>
     <td>Maintaining fine-tuned dual-boot systems optimized for terminal efficiency.</td>
   </tr>
@@ -102,12 +120,11 @@ I like to view technology through a holistic lens—analyzing not just how code 
 
 <div align="center">
 
-## 🤝 Establish Connection
+## 🤝 Establishing Connection
 
 </div>
 
-**Email:** contact@labirend.com
-
+**Email:** contact@labirend.com<br>
 **LinkedIn:** https://linkedin.com/in/dgnacar
 
 ---
