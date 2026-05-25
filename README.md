@@ -12,7 +12,11 @@ I like to view technology through a holistic lens—analyzing not just how code 
 
 ---
 
-## ⚡ Core Philosophy & Workflow
+<div align="center">
+
+## <font color="#FFD700">⚡ Core Philosophy & Workflow</font>
+
+</div>
 
 - **Practical Automation:** Building modules, shell scripts, and background services that eliminate friction in daily tasks and optimize workflows.
 - **Secure Systems & Cryptology:** Deep diving into secure communication frameworks, hybrid backend setups (Supabase/Firebase), cryptographic implementation, and defensive network security.
@@ -21,51 +25,58 @@ I like to view technology through a holistic lens—analyzing not just how code 
 
 ---
 
-## 🛠️ My Skill Set  
+<div align="center">
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+## <font color="#FFD700">🛠️ My Skill Set</font>
+
+</div>
+
+<div align="center">
+  <div style="border: 1px solid #555; border-radius: 8px; padding: 15px; display: inline-block;">
 
 ### Frontend  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+  <div>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>
+<a href="https://www.java.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+  </div>
+  </div>
 </div>
 
-</td>
-<td valign="top" width="50%">
+<div align="center">
+  <div style="border: 1px solid #555; border-radius: 8px; padding: 15px; display: inline-block;">
 
 ### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+  <div>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>
+<a href="https://dart.dev/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+  </div>
+  </div>
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
 
-## 🔮 Active Research & Explorations
+<div align="center">
+
+## <font color="#FFD700">🔮 Active Research & Explorations</font>
+
+</div>
 
 <table>
   <tr>
@@ -89,7 +100,11 @@ I like to view technology through a holistic lens—analyzing not just how code 
 
 ---
 
-## 🤝 Establish Connection
+<div align="center">
+
+## <font color="#FFD700">🤝 Establish Connection</font>
+
+</div>
 
 - **Email:** contact@labirend.com
 - **LinkedIn:** https://linkedin.com/in/dgnacar
