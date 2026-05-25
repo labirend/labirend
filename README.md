@@ -53,10 +53,6 @@ I like to view technology through a holistic lens—analyzing not just how code 
 
 ## 🤝 Establish Connection
 
-```bash
-$ curl -s https://api.github.com/users/labirend | grep -E "email|linkedin"
-```
-
 - **Email:** contact@labirend.com
 - **LinkedIn:** https://linkedin.com/in/dgnacar
 
